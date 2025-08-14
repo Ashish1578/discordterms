@@ -1,0 +1,2 @@
+# discordterms
+t and c
